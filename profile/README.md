@@ -1,4 +1,4 @@
-![Alt text](/logo.png?raw=true)
+![Alt text](/ekg.png?raw=true)
 
 Welcome to EKG offical repository!
 
