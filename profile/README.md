@@ -6,7 +6,7 @@ Native it runs only in Windows for now, the focus is be multiplataform (to suppo
 You can read the docs of EKG api here!
 
 Metas:
-- Awesomoe performance.
+- Awesome performance.
 - Easy to build context GUIs.
 - Multiplataform.
 - Custom themes and colors.
