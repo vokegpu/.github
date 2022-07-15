@@ -15,5 +15,7 @@ Metas:
 - Custom themes and colors.
 - Tool kit for games.
 
+----
+
 The project is not initial, EKG had an old source written for Android (NDK) but the code and performance was not too good.
 ~Rina ><
