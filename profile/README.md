@@ -6,7 +6,7 @@ EKG is a library written in C++ using SDL2 and OpenGL 3/ES.
 Natively runs only in Windows for now, the focus is be multiplataform (to supports native systems as Android and Linux).
 
 You can read the docs of EKG api here ![EKG-API-docs](https://github.com/ekg-ez-build-gui/ekg-api-docs/) ! \
-The project is 10% done!
+The project is 12% done!
 
 Metas:
 - Awesome performance.
