@@ -17,5 +17,9 @@ Metas:
 
 ----
 
+# showcase
+
+![Text hi](https://github.com/ekg-ez-build-gui/ekg/blob/main/splashes-dev/splash-actual-state.png?raw=true)
+
 The project is not initial, EKG had an old source written for Android (NDK) but the code and performance was not too good.
 ~Rina ><
