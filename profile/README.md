@@ -9,7 +9,7 @@ You can read the docs of EKG api here ![EKG-API-docs](https://github.com/ekg-ez-
 The project is 15% done!
 
 Metas:
-- Awesome performance.
+- Performance.
 - Easy to build context GUIs.
 - Multiplataform.
 - Custom themes and colors.
@@ -19,10 +19,11 @@ Metas:
 
 # showcase
 
-The elements done are:
+Elements:
 - Abstract.
 - Button.
-- Check-box.
+- Checkbox.
+- Combobobx.
 - Frame.
 - Popup.
 - Slider.
