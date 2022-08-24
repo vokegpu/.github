@@ -19,16 +19,16 @@ Metas:
 
 # showcase
 
-Abstract.
-Button.
-Checkbox.
-Combobobx.
-Frame.
-Popup.
-Slider.
-Entry box.
+`Abstract`
+`Button`
+`Checkbox.`
+`Combobobx.`
+`Frame.`
+`Popup.`
+`Slider.`
+`Entry box.`
 
-![Text hi](https://github.com/ekg-ez-build-gui/ekg/blob/main/splashes-dev/splash-general-2.png?raw=true)
+![Text hi](https://github.com/ekg-ez-build-gui/ekg/blob/main/splashes-dev/splash-actual-2-ver-0.9.0?raw=true)
 
 The project is not initial, EKG had an old source written for Android (NDK) but the code and performance was not too good.
 ~Rina ><
