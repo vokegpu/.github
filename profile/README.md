@@ -21,12 +21,12 @@ Metas:
 
 `Abstract`
 `Button`
-`Checkbox.`
-`Combobobx.`
-`Frame.`
-`Popup.`
-`Slider.`
-`Entry box.`
+`Checkbox`
+`Combobobx`
+`Frame`
+`Popup`
+`Slider`
+`Entrybox`
 
 ![Text hi](https://github.com/ekg-ez-build-gui/ekg/blob/main/splashes-dev/splash-actual-2-ver-0.9.0?raw=true)
 
