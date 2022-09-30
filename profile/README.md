@@ -1,33 +1,14 @@
-Welcome to official EKG repository!
+Welome to ekg repository.
 
-EKG is a library written in C++ using SDL2 and OpenGL 3/ES.
-Natively runs only in Windows for now, the focus is be multiplataform (to supports native systems as Android and Linux).
+This library is focused on high performance projects and complex GUIs, ekg supports Windows, Linux (Arch, Ubuntu, Android...).  
+Multiplatform, smooth and simple. An immediate and buildable UI library, the ekg supports only OpenGL for now.
 
-You can read the docs of EKG api here ![EKG-API-docs](https://github.com/ekg-ez-build-gui/ekg-api-docs/) ! \
-The project is 30% done!
+The current state of project is:  
+version-deprecated-legacy-core: First version of ekg.  
+version-legacy-core: First rewrite of ekg, but ekg usability is hard and confuse.  
+version-core: Second and actual version of ekg, totally rewrite and plus immediate mode.
 
-Main meta:
-- Performance.
-- Easy to build context GUIs.
-- Multiplataform.
-- Custom themes and colors.
-- Tool kit for games.
+# Showcase
 
-----
-
-# showcase
-
-`Abstract`
-`Button`
-`Checkbox`
-`Combobobx`
-`Frame`
-`Popup`
-`Slider`
-`Entrybox`
-
-![Text hi](https://github.com/ekg-ez-build-gui/ekg/blob/main/splashes-dev/splash-actual-2-ver-0.9.0.png?raw=true)
-project using ekg library: ![bicudo](https://github.com/MrsRina/bicudo)
-
-The project is not initial, EKG had an old source written for Android (NDK) but the code and performance was not too good.
-~Rina ><
+There is no showcase in version-core.
+6% done.
