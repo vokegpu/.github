@@ -1,5 +1,3 @@
-![Alt text](/ekg.png?raw=true)
-
 Welcome to official EKG repository!
 
 EKG is a library written in C++ using SDL2 and OpenGL 3/ES.
