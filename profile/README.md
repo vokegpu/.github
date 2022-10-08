@@ -1,7 +1,7 @@
 Welome to ekg repository.
 
 This library is focused on high performance projects and complex GUIs, ekg supports Windows, Linux (Arch, Ubuntu, Android...).  
-Multiplatform, smooth and simple. An immediate and buildable UI library, the ekg supports only OpenGL for now.
+Multiplatform, smooth and simple. Buildable UI library, the ekg supports only OpenGL for now.
 
 The current state of project is:  
 version-deprecated-legacy-core: First version of ekg for NDK.  
