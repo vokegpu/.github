@@ -4,9 +4,11 @@ This library is focused on high performance projects and complex GUIs, ekg suppo
 Multiplatform, smooth and simple. Buildable UI library, the ekg supports only OpenGL for now.
 
 The current state of project is:  
-`version-deprecated-legacy-core`: First version of ekg for NDK.  
-`version-legacy-core`: First rewrite of ekg, usability is hard and confuse.  
-`version-core`: Second and actual version of ekg, totally rewrite and plus immediate mode.
+`version-deprecated-legacy-core` First version of ekg for NDK.  
+`version-legacy-core` First rewrite of ekg, usability is hard and confuse.  
+`version-core` Second and actual version of ekg, totally rewrite and plus immediate mode.
+
+![Image Text](https://github.com/ekg-ui-library/ekg/blob/version-core/splash/splash-showcase-2-1.0.0.png.png?raw=true)
 
 # Showcase
 
