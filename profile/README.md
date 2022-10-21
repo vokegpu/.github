@@ -7,7 +7,7 @@ Want to contribute?
 You are free to help us.
 
 Want to report an issue?  
-![Peek VokeGpu youtrack](https://vokegpu.youtrack.cloud).
+![Look at VokeGpu youtrack server!](https://vokegpu.youtrack.cloud).
 
 The current state of project is:  
 `version-deprecated-legacy-core` First version of ekg for NDK.  
