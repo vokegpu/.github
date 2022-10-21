@@ -21,4 +21,4 @@ The current state of project is:
 There is no showcase in version-core.
 6% done.
 
-VokeGpu 2022 All rights reserved.
+@VokeGpu 2022 All rights reserved.
