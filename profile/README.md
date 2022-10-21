@@ -14,5 +14,7 @@ You are welcome!
 Want to report an issue?  
 ![YouTrack](https://vokegpu.youtrack.cloud)
 
-comercial email: vokegpu@gmail.com
+---
+
+comercial email: vokegpu@gmail.com  
 @VokeGpu 2022 All rights reserved.
