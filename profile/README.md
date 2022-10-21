@@ -4,10 +4,10 @@ This library is focused on high performance projects and complex GUIs, ekg suppo
 Multiplatform, smooth and simple. Buildable UI library, the ekg supports only OpenGL for now.
 
 Want to contribute?  
-Do not be aware to help this project!
+You are free to help us.
 
 Want to report an issue?  
-Peek VokeGpu youtrack: https://vokegpu.youtrack.cloud/dashboard
+![Peek VokeGpu youtrack](https://vokegpu.youtrack.cloud).
 
 The current state of project is:  
 `version-deprecated-legacy-core` First version of ekg for NDK.  
@@ -20,3 +20,5 @@ The current state of project is:
 
 There is no showcase in version-core.
 6% done.
+
+VokeGpu 2022 All rights reserved.
