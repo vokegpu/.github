@@ -1,24 +1,18 @@
-Welome to ekg repository.
+Welome to VokeGpu!
 
-This library is focused on high performance projects and complex GUIs, ekg supports Windows, Linux (Arch, Ubuntu, Android...).  
-Multiplatform, smooth and simple. Buildable UI library, the ekg supports only OpenGL for now.
+We are following the future of graphics!  
+High parallel computation, high performance solutions and custom visual services. 
+
+---
+
+Projects going on...
+![ekg ui library](!https://github.com/vokegpu/ekg-ui-library)
 
 Want to contribute?  
-You are free to help us.
+You are welcome!
 
 Want to report an issue?  
 ![Look at VokeGpu youtrack server!](https://vokegpu.youtrack.cloud).
 
-The current state of project is:  
-`version-deprecated-legacy-core` First version of ekg for NDK.  
-`version-legacy-core` First rewrite of ekg, usability is hard and confuse.  
-`version-core` Second and actual version of ekg, totally rewrite and plus immediate mode.
-
-![Image Text](https://github.com/ekg-ui-library/ekg/blob/version-core/splash/splash-showcase-2-1.0.0.png.png?raw=true)
-
-# Showcase
-
-There is no showcase in version-core.
-6% done.
-
+comercial email: vokegpu@gmail.com
 @VokeGpu 2022 All rights reserved.
