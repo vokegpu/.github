@@ -3,6 +3,12 @@ Welome to ekg repository.
 This library is focused on high performance projects and complex GUIs, ekg supports Windows, Linux (Arch, Ubuntu, Android...).  
 Multiplatform, smooth and simple. Buildable UI library, the ekg supports only OpenGL for now.
 
+Want to contribute?  
+Do not be aware to help this project!
+
+Want to report an issue?  
+Peek VokeGpu youtrack: https://vokegpu.youtrack.cloud/dashboard
+
 The current state of project is:  
 `version-deprecated-legacy-core` First version of ekg for NDK.  
 `version-legacy-core` First rewrite of ekg, usability is hard and confuse.  
