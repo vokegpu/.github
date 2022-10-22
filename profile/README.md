@@ -1,5 +1,4 @@
 Welcome to VokeGpu!
-
 We are following the future of graphics!  
 High parallel computation, high performance solutions and custom visual services. 
 
