@@ -10,5 +10,5 @@ Links of projects and important stuff:
 
 ---
 
-comercial email: vokegpu@gmail.com  
+Comercial contact: vokegpu@gmail.com  
 @VokeGpu 2022 All rights reserved.
