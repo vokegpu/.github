@@ -6,7 +6,8 @@ High parallel computation, high performance solutions and custom visual services
 Links   
 [ekg ui library](https://github.com/vokegpu/ekg-ui-library)  
 [anubis graphics kit](https://github.com/vokegpu/anubis-graphics-kit)  
-[YouTrack](https://vokegpu.youtrack.cloud)  
+[YouTrack Workspace](https://vokegpu.youtrack.cloud)  
+[Monday Workspace](https://vokegpu.monday.com/)
 
 ---
 
