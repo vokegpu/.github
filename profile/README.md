@@ -11,4 +11,4 @@ Links
 ---
 
 Commercial contact: vokegpu@gmail.com  
-@VokeGpu 2022 All rights reserved.
+@VokeGpu 2023 All rights reserved.
