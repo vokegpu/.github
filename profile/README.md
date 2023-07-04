@@ -1,11 +1,12 @@
 Welcome to VokeGpu! 
  
 We are following the future of graphics!  
-High-parallel computation, high-performance solutions and custom visual services. 
+High-parallel computation, high-performance solutions, and custom visual services. 
 
-Links   
+This organization contains an open-source UI library project, which you can donate (this help too much !(Rina)[https://github.com/mrsrina]).  
 [ekg ui library](https://github.com/vokegpu/ekg-ui-library)  
-[anubis graphics kit](https://github.com/vokegpu/anubis-graphics-kit)  
+
+Links  
 [YouTrack Workspace](https://vokegpu.youtrack.cloud)  
 
 ---
