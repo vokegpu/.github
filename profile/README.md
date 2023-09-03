@@ -1,1 +1,5 @@
+life too useless~
 
+---
+
+@vokegpu
