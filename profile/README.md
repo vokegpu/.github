@@ -8,7 +8,7 @@ Mainly technologies:
 
 🐮💕🐈
 
-In memories of all my children, and specially:
-- Astah.
+In memories of all my children (🐈, 🐶), and specially:  
+🖤 Astah 🐈‍⬛.
 
 @vokegpu
