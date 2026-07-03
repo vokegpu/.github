@@ -11,4 +11,7 @@ Mainly technologies:
 In memories of all my children (🐈, 🐶), and specially:  
 🖤 Astah 🐈‍⬛.
 
+#### VOKEGPU DOES NOT USE ANY AI TOOL - programming is not only about solving human problems...
+#### but as an art for our useless existence
+
 @vokegpu
